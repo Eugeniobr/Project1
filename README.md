@@ -13,7 +13,6 @@ This project was implemented in Python 3.6 and made use of the following python 
 - [Pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/)
-- [Scipy](https://www.scipy.org/)
 
 ## Files
 
