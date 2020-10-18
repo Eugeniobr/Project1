@@ -15,10 +15,10 @@ This project was implemented in Python 3.6 and made use of the following python 
 
 ## Files
 
--[project_1_nb.ipynb]: jupyter notebook that contains the analysis of the dataset.
--[survey_results_.zip]: compressed file that contains survey_results_public.csv and survey_results_public.csv.
--[survey_results_public.csv]: CSV file that contains the information provided by the survey participants.
--[survey_results_schema.csv]: CSV file that contains information about the columns of survey_results_public.csv.
+- project_1_nb.ipynb: jupyter notebook that contains the analysis of the dataset.  
+- survey_results_.zip: compressed file that contains survey_results_public.csv and survey_results_public.csv.  
+- survey_results_public.csv: CSV file that contains the information provided by the survey participants.  
+- survey_results_schema.csv: CSV file that contains information about the columns of survey_results_public.csv.  
 
 ### Run
 
