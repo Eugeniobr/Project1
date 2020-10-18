@@ -22,5 +22,5 @@ This project was implemented in Python 3.6 and made use of the following python 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `Project1/` and run the following command:
+In a terminal or command window, navigate to the top-level project directory `Project1/` and run the following command:  
 ```jupyter notebook project_1_nb.ipynb```
