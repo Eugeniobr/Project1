@@ -3,7 +3,7 @@
 ## Project motivation
 
 This is the first project of the Udacity Data Scientist Nanodegree. In this project, I analyzed
-the StackOverflow Survey 2019 dataset with the objective of answering a few questions.
+the 2019 StackOverflow dataset with the objective of answering a few questions.
 
 ## Installation 
 
