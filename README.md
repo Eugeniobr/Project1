@@ -25,3 +25,15 @@ This project was implemented in Python 3.6 and made use of the following python 
 
 In a terminal or command window, navigate to the top-level project directory `Project1/` and run the following command:  
 ```jupyter notebook project_1_nb.ipynb```
+
+### Summary results 
+
+Based on the analysis I performed, the following conclusions can be drawn:
+1. Programmer who get paid more tend to visit StackOverflow less.
+2. There’s no relationship between working remotely and salary variables.
+3. There’s no relationship between age and job satisfaction variables.
+4. The linear regression model built using only numeric features doesn’t perfom well in predicting salary.
+
+### Acknowledgements
+
+The 2019 StackOverflow dataset is openly acessible and can be found on this [link](https://insights.stackoverflow.com/survey).
